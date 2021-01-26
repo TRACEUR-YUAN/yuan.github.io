@@ -242,7 +242,8 @@ mark {
 
 .bg-color {
    /* background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%); */
-   background-image: linear-gradient(to right, #6F1E69 0%, #6F1E69 100%);
+   /* background-image: linear-gradient(to right, #6F1E69 0%, #6F1E69 100%); 紫色 */
+   background-image: linear-gradient(to right, #0F1E6B 0%, #0F1E6B 100%);
    opacity: 0.8;
 }
 
