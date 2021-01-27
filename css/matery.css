@@ -572,7 +572,7 @@ header .go-back i {
 
 .bg-cover .container {
     position: relative;
-    color: #fff;
+    color: #eee;  /*fff*/
     z-index: 2;
 }
 
