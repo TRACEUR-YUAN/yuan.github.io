@@ -692,20 +692,11 @@ if (windowWidth > 768) {
 </script>
 
 
-<!--浏览器搞笑标题-->
-var OriginTitle = document.title;
-var titleTime;
-document.addEventListener('visibilitychange', function () {
-    if (document.hidden) {
-        $('[rel="icon"]').attr('href', "https://cdn.jsdelivr.net/gh/Yafine/cdn@2.5/source/favicon.png");
-        document.title = 'ヽ(●-`Д´-)ノ你要玩捉迷藏嘛';
-        clearTimeout(titleTime);
-    }
-    else {
-        $('[rel="icon"]').attr('href', "https://cdn.jsdelivr.net/gh/Yafine/cdn@2.5/source/favicon.png");
-        document.title = 'ヾ(Ő∀Ő3)ノ好哦！' + OriginTitle;
-        titleTime = setTimeout(function () {
-            document.title = OriginTitle;
-        }, 2000);
-    }
-});
+
+
+<script type="text/javascript">
+    var OriginTitile=document.title,st;
+    document.addEventListener("visibilitychange",function(){
+        document.hidden?(document.title="期待下次相见",clearTimeout(st)):(document.title="我们的征途是星辰大海",st=setTimeout(function(){document.title=OriginTitile},3e3))
+    })
+</script>
