@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Internet of things ch1：物联网简介</title>
+      <link href="2021/02/01/Internet-of-things/"/>
+      <url>2021/02/01/Internet-of-things/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Internet-of-things-ch1：物联网简介"><a href="#Internet-of-things-ch1：物联网简介" class="headerlink" title="Internet of things ch1：物联网简介"></a>Internet of things ch1：物联网简介</h1><h6 id="本文主要以全局的眼光看待物联网，高屋建瓴的了解物联网的架构。物联网是5G时代发展的主旋律。也是互联网的延申。因此，关于物联网的概念及其重要，必须熟稔于心。"><a href="#本文主要以全局的眼光看待物联网，高屋建瓴的了解物联网的架构。物联网是5G时代发展的主旋律。也是互联网的延申。因此，关于物联网的概念及其重要，必须熟稔于心。" class="headerlink" title="本文主要以全局的眼光看待物联网，高屋建瓴的了解物联网的架构。物联网是5G时代发展的主旋律。也是互联网的延申。因此，关于物联网的概念及其重要，必须熟稔于心。"></a>本文主要以全局的眼光看待物联网，高屋建瓴的了解物联网的架构。物联网是5G时代发展的主旋律。也是互联网的延申。因此，关于物联网的概念及其重要，必须熟稔于心。</h6><h2 id="1-概念"><a href="#1-概念" class="headerlink" title="1.概念"></a>1.概念</h2><p> 百科定义物联网：物联网（The Internet of Things，简称IOT）是指通过 各种信息传感器、射频识别技术、全球定位系统、红外感应器、激光扫描器等各种装置与技术，实时采集任何需要监控、 连接、互动的物体或过程，采集其声、光、热、电、力学、化 学、生物、位置等各种需要的信息，通过各类可能的网络接入，实现物与物、物与人的泛在连接，实现对物品和过程的智能化感知、识别和管理。</p><h2 id="2-发展历程"><a href="#2-发展历程" class="headerlink" title="2.发展历程"></a>2.发展历程</h2><h2 id="3-典型案例"><a href="#3-典型案例" class="headerlink" title="3.典型案例"></a>3.典型案例</h2><h2 id="4-分支应用领域"><a href="#4-分支应用领域" class="headerlink" title="4.分支应用领域"></a>4.分支应用领域</h2><h2 id="5-技术实现架构"><a href="#5-技术实现架构" class="headerlink" title="5.技术实现架构"></a>5.技术实现架构</h2><h2 id="6-各层次涉及的核心技术"><a href="#6-各层次涉及的核心技术" class="headerlink" title="6.各层次涉及的核心技术"></a>6.各层次涉及的核心技术</h2><h2 id="7-华为的物联网解决方案"><a href="#7-华为的物联网解决方案" class="headerlink" title="7.华为的物联网解决方案"></a>7.华为的物联网解决方案</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> UCOS </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>嵌入式OS：UCOSIII</title>
       <link href="2021/01/28/UCOSIII/"/>
       <url>2021/01/28/UCOSIII/</url>
