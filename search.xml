@@ -11,6 +11,12 @@
         <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> 华为LiteOS </category>
+          
+      </categories>
+      
       
     </entry>
     
@@ -26,7 +32,7 @@
       
       <categories>
           
-          <category> UCOS </category>
+          <category> LiteOS </category>
           
       </categories>
       
@@ -36,7 +42,7 @@
     
     
     <entry>
-      <title>嵌入式OS：UCOSIII</title>
+      <title>嵌入式OS:UCOSIII</title>
       <link href="2021/01/28/UCOSIII/"/>
       <url>2021/01/28/UCOSIII/</url>
       
