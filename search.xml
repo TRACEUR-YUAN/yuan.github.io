@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>IOT ch2:华为LiteOS开发环境搭建</title>
+      <title>IOT :华为LiteOS开发环境搭建</title>
       <link href="2021/02/01/IOT-ch2-%E5%8D%8E%E4%B8%BALiteOS%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
       <url>2021/02/01/IOT-ch2-%E5%8D%8E%E4%B8%BALiteOS%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</url>
       
-        <content type="html"><![CDATA[<h1 id="待更新…"><a href="#待更新…" class="headerlink" title="待更新…"></a>待更新…</h1>]]></content>
+        <content type="html"><![CDATA[<h1 id="IOT-华为LiteOS开发环境搭建"><a href="#IOT-华为LiteOS开发环境搭建" class="headerlink" title="IOT :华为LiteOS开发环境搭建"></a>IOT :华为LiteOS开发环境搭建</h1><h2 id="一、什么是操作系统"><a href="#一、什么是操作系统" class="headerlink" title="一、什么是操作系统"></a>一、什么是操作系统</h2><h4 id="1-1-公司发展案例"><a href="#1-1-公司发展案例" class="headerlink" title="1.1 公司发展案例"></a>1.1 公司发展案例</h4><p> （1）初创期一个人，主要是干活，直接产出价值。不需要管理。<br> （2）发展期10个人，一起干活，当面沟通，稍有组织即可，不需要专业化管理。<br> （3）规模期几百几千几万人，部分人纯干活，部分人干活加管理，部分人纯管理。<br> （4）总结：任何组织和系统的演变发展方向都是组织整体效率最优化配置。<br> （5）干活、沟通、管理必须模块化划分，然后再有效结合，被证明是最有效的方式。</p><h4 id="1-2-为什么用操作系统"><a href="#1-2-为什么用操作系统" class="headerlink" title="1.2 为什么用操作系统"></a>1.2 为什么用操作系统</h4><h5 id="1-2-1-从裸机到操作系统是必然发展路线"><a href="#1-2-1-从裸机到操作系统是必然发展路线" class="headerlink" title="1.2.1 从裸机到操作系统是必然发展路线"></a>1.2.1 从裸机到操作系统是必然发展路线</h5><p> （1）发展阶段1：裸机并且全部代码自写<br> （2）发展阶段2：裸机但调用库函数<br> （3）发展阶段3：裸机加状态机实现简单的多任务<br> （4）发展阶段4：上简单操作系统：RTOS（ucos、LiteoS）<br> （5）发展阶段5：上复杂操作系统：Linux、Windows、Android</p><h5 id="1-2-2-使用操作系统的优势"><a href="#1-2-2-使用操作系统的优势" class="headerlink" title="1.2.2 使用操作系统的优势"></a>1.2.2 使用操作系统的优势</h5><p> （1）轻松实现多任务<br> （2）轻松借用很多第三方组件功能<br> （3）更好实现可移植性<br> （4）减少项目开发复杂度（类比汽车自动挡和手动挡）<br> （5）代价就是操作系统自身的开销（启动时间、资源消耗、学习投入）</p>]]></content>
       
       
       <categories>
